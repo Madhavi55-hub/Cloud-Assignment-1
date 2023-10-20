@@ -1,0 +1,16 @@
+<html>
+ <head>
+ <script>
+ var number=[10,40,99,88,11,33,22];
+ var length=number.length;
+ console.log("length of an array is:"+length);
+ var sort=number.sort();
+ console.log(sort);
+ var reverse=number.reverse();
+ console.log(reverse);
+ </script>
+  <title>Document</title>
+ </head>
+ <body>
+ </body>
+</html>

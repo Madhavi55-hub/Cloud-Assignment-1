@@ -3,7 +3,7 @@ function appendToDisplay(value)
 {
 	display.value +=value;
 }
-function clearInput()
+function clearDisplay()
 {
 	display.value="";
 }

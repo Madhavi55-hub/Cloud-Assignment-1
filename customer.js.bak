@@ -33,13 +33,7 @@ function display()
 	
 	
 }
-function check(c1)
-{
-	if((this).is(":checked")==true)
-	{
-		c2=false;
-	}
-}
+
 
 
 

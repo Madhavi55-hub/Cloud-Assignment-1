@@ -44,8 +44,8 @@
    <tr>
    <td>
   <label style="font-size:20px">Gender:</label>
-  <input type="checkbox"id="male" required onclick="c1()"value="yes"name="check">Male</input>
-  <input type="checkbox" id="female" required onclick="c2()"value="no"name="check">Female</input><br><br>
+  <input type="checkbox"id="male" required "name="check">Male</input>
+  <input type="checkbox" id="female" required name="check">Female</input><br><br>
   </td>
   </tr>
    <tr>
@@ -68,7 +68,7 @@
    </table>
    <div id="ss">
   <input type="submit"value="submit"class="sub"onclick="display()"></input>
-  <input type="reset"value="reset"class="sub"onclick=""></input>
+  <input type="reset"value="reset"class="sub"></input>
   </div>
   </form> 
   </fieldset>

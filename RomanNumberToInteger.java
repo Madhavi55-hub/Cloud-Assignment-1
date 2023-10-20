@@ -1,6 +1,6 @@
 package pack1;
 import java.util.Scanner;
-public class Sample8 {
+public class RomanNumberToInteger {
 public static void main(String[] args) {
 	Scanner scan=new Scanner(System.in);
 	System.out.print("enter a roman numeral: ");
